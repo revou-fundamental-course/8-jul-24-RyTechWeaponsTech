@@ -16,6 +16,11 @@ body {
   text-align: center;
 }
 
+.bmi-explain {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
 h1 {
   color: #333;
 }

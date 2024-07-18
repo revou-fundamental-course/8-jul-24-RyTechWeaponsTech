@@ -21,11 +21,12 @@ function calculateBMI() {
       "It is very recommended if you start eating more protein to bulk up your body and to gain weight";
   } else if (bmi < 25) {
     category = "Normal weight";
-    explanation = "Keep it up! Stay fit and don't eat too much or too less!";
+    explanation =
+      "Keep it up! Stay fit and don't eat too much or too less! Don't forget to workout daily ;]";
   } else if (bmi < 30) {
     category = "Overweight";
     explanation =
-      "Try to do exercise like morning jogs and maybe some indoor workouts";
+      "Try to do exercise like morning jogs and maybe some indoor workouts to decrease your weight and the size of your body";
   } else {
     category = "Obese";
     explanation = `<div class="late">it's too late...</div>`;
